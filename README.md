@@ -23,4 +23,4 @@ Caso o CPF tenha alguma promoção vinculada, o código referente a promoção s
 O programa interage com a seguinte API web:
 
 URL: https://cacaudigital.azure-api.net/Loyalty.gateway.api/Cadastro/  
-Chave de autenticação: ECX3ykaPZvlkneCxPwZV74EmZXY6sFSDXXWsEf8LTFve-47PGhkwkX9Fw3nWwOtEjzvaphPBWalZgVNMEHvbLA
+
